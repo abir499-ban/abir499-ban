@@ -4,7 +4,7 @@
 
 🍀 My go to Tech-Stack is MERN, but I also like to explore different technologies and frameworks like Next.js and EJS. 
 
-🐍 I am equally proficient in Python and C++. Beside that, I also like to deep dive into data structures and alogoriths. 
+🐍 I am equally proficient in Python and C++. Beside that, I also like to deep dive into data structures and alogorithms. 
 
 ⬆️I am constantly upgrading my skillset to solve real world problems.
 
