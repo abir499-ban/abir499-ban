@@ -12,5 +12,7 @@
 
 ## 📊Github stats
 ![abir499-ban's Stats](https://github-readme-stats.vercel.app/api?username=abir499-ban&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![abir499-ban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abir499-ban&theme=vue-dark&hide_border=true)
-                      ![abir499-ban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abir499-ban&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![abir499-ban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abir499-ban&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
