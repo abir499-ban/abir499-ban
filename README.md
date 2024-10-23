@@ -41,6 +41,7 @@
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-DB3C3C?style=for-the-badge&logo=database&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![FeathersJS](https://img.shields.io/badge/Feathers.js-000000?style=for-the-badge&logo=feathersjs&logoColor=white)
+![Shdcn UI](https://img.shields.io/badge/Shdcn_UI-Active-brightgreen)
 
 **Database**
 
@@ -56,4 +57,3 @@
 ![CodeBlocks](https://img.shields.io/badge/Codeblocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=gemini&logoColor=white)
