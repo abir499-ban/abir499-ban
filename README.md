@@ -40,4 +40,9 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-DB3C3C?style=for-the-badge&logo=database&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![FeathersJS](https://img.shields.io/badge/Feathersjs-000000?style=for-the-badge&logo=feathersjs&logoColor=white)
+![FeathersJS](https://img.shields.io/badge/Feathers.js-000000?style=for-the-badge&logo=feathersjs&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
