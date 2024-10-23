@@ -56,4 +56,4 @@
 ![CodeBlocks](https://img.shields.io/badge/Codeblocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-Active-brightgreen)
+![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=gemini&logoColor=white)
