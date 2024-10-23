@@ -42,8 +42,7 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![FeathersJS](https://img.shields.io/badge/Feathers.js-000000?style=for-the-badge&logo=feathersjs&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle-DB3C3C?style=for-the-badge&logo=database&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=red)
-
+![JWT](https://img.shields.io/badge/Json%20Web%20Tokens-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 
 
