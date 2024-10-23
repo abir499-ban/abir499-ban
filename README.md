@@ -42,6 +42,12 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![FeathersJS](https://img.shields.io/badge/Feathers.js-000000?style=for-the-badge&logo=feathersjs&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-JSON%20Web%20Token-brightgreen) 
+![npm](https://img.shields.io/badge/npm-v7.20.0-CB3837?style=flat&logo=npm) 
+![Nodemon](https://img.shields.io/badge/Nodemon-v2.0.7-green) 
+![Socket.io](https://img.shields.io/badge/Socket.io-v4.0.1-blue) 
+![Zod](https://img.shields.io/badge/Zod-v3.10.6-red)
+
 
 **Database**
 
