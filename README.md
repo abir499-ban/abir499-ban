@@ -66,5 +66,5 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Hacktober fest 2024 badges**
-!(file:///C:/Users/abirb/OneDrive/Pictures/Camera%20Roll/level0-sloth-hello-0-0-0-0.webp)
+
 
