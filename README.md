@@ -68,4 +68,16 @@
 **Hacktober fest 2024 badges**
 
 
-![Level 0](https://raw.githubusercontent.com/abir499-ban/abir499-ban/refs/heads/main/store/level0-sloth-hello-0-0-0-0.webp)
+<div align="left">
+  <img src="https://raw.githubusercontent.com/abir499-ban/abir499-ban/refs/heads/main/store/level0-sloth-hello-0-0-0-0.webp" alt="Level 0" width="120"/>
+  <img src="https://raw.githubusercontent.com/abir499-ban/abir499-ban/refs/heads/main/store/level1-sloth-terminal-coffee-0-0-0.webp" alt="Level 1" width="120"/>
+</div>
+
+
+
+
+**GirlScript Summer of Code 2024 extd' badges**
+
+<div align="left">
+  <img src="https://github.com/abir499-ban/abir499-ban/blob/main/store/Share%20Badge.png" alt="Level 1" width="120"/>
+</div>
