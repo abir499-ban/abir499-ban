@@ -67,6 +67,3 @@
 
 **Hacktober fest 2024 badges**
 
-![](https://drive.google.com/drive/u/0/folders/1JZloBWMPidkHRVLkgoXqv8rQ1MJANfyv)
-
-![](https://drive.google.com/drive/u/0/folders/1JZloBWMPidkHRVLkgoXqv8rQ1MJANfyv)
