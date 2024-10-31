@@ -80,4 +80,5 @@
 
 <div align="left">
   <img src="https://github.com/abir499-ban/abir499-ban/blob/main/store/Share%20Badge.png" alt="Level 1" width="120"/>
+  <img src="https://github.com/abir499-ban/abir499-ban/blob/main/store/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-10-31.png" alt="Level 1" width="120"/>
 </div>
