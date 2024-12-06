@@ -82,3 +82,12 @@
   <img src="https://github.com/abir499-ban/abir499-ban/blob/main/store/Share%20Badge.png" alt="Level 1" width="120"/>
   <img src="https://github.com/abir499-ban/abir499-ban/blob/main/store/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-10-31.png" alt="Level 1" width="120"/>
 </div>
+
+**Github Trophies**
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=abir499-ban&theme=discord)
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abir499-ban&bg_color=282024&color=5a9e4c&line=4c9e5d&point=3e413f&area=true&hide_border=true)]
+
