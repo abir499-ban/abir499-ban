@@ -1,5 +1,5 @@
-# Hello 👋
-## Abir this side,
+# <div align="center">Hello 👋 <img src="https://camo.githubusercontent.com/f3b4654c95bc61462e67c74fdd40e0bf142418869046918dec5f1f2be69e6782/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" height="50px" width="50px"/></div> 
+## <div align="center">Abir this side,</div>
 ![](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 
 🧑‍💻 I am a Backend Developer.
