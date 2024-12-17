@@ -50,6 +50,7 @@
 ![npm](https://img.shields.io/badge/npm-FF0000?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-28A745?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
+[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 ![Zod](https://img.shields.io/badge/Zod-007BFF?style=for-the-badge&logo=zod&logoColor=white)
 
 
