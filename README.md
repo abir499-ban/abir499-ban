@@ -10,7 +10,7 @@
 
 🐍 I am equally proficient in Python and C++. Beside that, I also like to deep dive into data structures and algorithms. 
 
-🔭 I am currently learning about Web RTC.
+🔭 I am currently learning about Nestjs.
 
 ⬆️I am constantly upgrading my skillset to solve real world problems.
 
