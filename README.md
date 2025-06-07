@@ -4,18 +4,17 @@
 
 -------
 
-🧑‍💻 I am a Backend Developer.
+🧑🏼‍💻 I'm a Full Stack Developer.
 
-🍀 My go to Tech-Stack is MERN, but I also like to explore different technologies and frameworks like Next.js and EJS. 
+💻 I am well versed with MERN, Next.js , Turborepo , PostgresQL and much more.
 
-🐍 I am equally proficient in Python and C++. Beside that, I also like to deep dive into data structures and algorithms. 
+🚀 I genuinely code in JS/TS and Python is like a refresher to me.
 
-🔭 These days I am learning about Databases.
+🧠 These days I am diving depp into core CS fundamentals — algorithms, databases and system architectures.
 
-⬆️I am constantly upgrading my skillset to solve real world problems.
+🌪️ On the other hand , I enjoy cooking Code for Algorithmic Problems.
 
-🌟 In a nutshell, I am interested in anything related to coding :-)
-
+📬 How to reach me: You can DM me on [LinkedIn](https://www.linkedin.com/in/abir-banerjee-951566308/) or ping me via email at abirbanerjee793@gmail.com
 
 ## 📊Github stats
 ![abir499-ban's Stats](https://github-readme-stats.vercel.app/api?username=abir499-ban&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
