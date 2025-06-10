@@ -96,5 +96,4 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abir499-ban&bg_color=282024&color=5a9e4c&line=4c9e5d&point=3e413f&area=true&hide_border=true)]
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abir499-ban&bg_color=0e150e&color=32a72a&line=2b9216&point=1dd762&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
