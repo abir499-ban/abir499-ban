@@ -16,12 +16,21 @@
 
 📬 How to reach me: You can DM me on [LinkedIn](https://www.linkedin.com/in/abir-banerjee-951566308/) or ping me via email at abirbanerjee793@gmail.com
 
+
 ## 📊Github stats
-![abir499-ban's Stats](https://github-readme-stats.vercel.app/api?username=abir499-ban&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+<p>
+  <img src="https://github-readme-stats-4ciy0ilm7-punitkr03.vercel.app/api?username=abir499-ban&show_icons=true&locale=en&theme=vue-dark&hide-broder=true" width="400px" height="300px" alt="abir499-ban's Stats" />
+</p
+<!-- ![abir499-ban's Stats](https://github-readme-stats.vercel.app/api?username=abir499-ban&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) -->
 
 ![abir499-ban's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abir499-ban&theme=vue-dark&hide_border=true)
 
-![abir499-ban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abir499-ban&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p>
+  <img src="https://github-readme-stats-4ciy0ilm7-punitkr03.vercel.app/api/top-langs?username=abir499-ban&show_icons=true&locale=en&layout=compact&hide_border=true&theme=vue-dark" width="400px" height="300px" alt="abir499-ban's topLangs" />
+</p>
+
+<!-- ![abir499-ban's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abir499-ban&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) -->
 
 ## 👨🏼‍💻Tech Stack 
 
