@@ -111,4 +111,5 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abir499-ban&bg_color=0e150e&color=32a72a&line=2b9216&point=1dd762&area=true&hide_border=true)]
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abir499-ban&bg_color=0e150e&color=32a72a&line=2b9216&point=1dd762&area=true&hide_border=true)] -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abir499-ban&bg_color=030b1c&color=73e8f7&line=87f6f8&point=70f5ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
