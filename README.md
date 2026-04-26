@@ -15,7 +15,7 @@ My areas of interest are:
 
 I also love to cook Code for Algorithmic Problems and explore different Progamming Languages, paradigms and dive into Deisgn Patterns.
 
-Drop an email at abirbanerjee793@gmail.com or connect with me on LLinkedIn](https://www.linkedin.com/me) 
+Drop an email at abirbanerjee793@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/me) 
 
 
 
