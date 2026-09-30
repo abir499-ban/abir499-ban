@@ -45,7 +45,7 @@ Drop an email at abirbanerjee793@gmail.com or connect with me on [LinkedIn](http
 
 **Languages**   
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,ts,py" />
 
 **Frameworks and Libraries**
 
